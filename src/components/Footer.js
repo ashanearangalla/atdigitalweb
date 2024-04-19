@@ -30,9 +30,9 @@ export default function Footer() {
       </div>
       <div className="footer-bottom">
         <div className='footer-bottom-box'>
-            <a href='#'>Privacy Policy</a>
+            <a href='/aboutus'>Privacy Policy</a>
             <p>|</p>
-            <a href='#'>Terms & Conditions</a>
+            <a href='/aboutus'>Terms & Conditions</a>
 
         </div>
       </div>
