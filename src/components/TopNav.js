@@ -6,7 +6,7 @@ export default function TopNav() {
   return (
     <div className="nav-bar">
       <div className="box-1">
-        <img alt='logo of at digital' src={logo} className="logo" />
+        <img alt='logo of AT Digital Company' src={logo} className="logo" />
       </div>
       <div className="box-2">
         <div>

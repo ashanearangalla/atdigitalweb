@@ -7,7 +7,7 @@ export default function Footer() {
     <div className='footer'>
       <div className="company-details">
         <div className='footer-box-1'>
-            <img alt='logo of at digital' src={logo} className="logo-footer" />
+            <img alt='logo of at digital company' src={logo} className="logo-footer" />
             <p>Your goal is our target. Not anything in between. We use online marketing platforms and tools to achieve single objective - your business results.</p>
         </div>
         <div className='footer-box-2'>
@@ -30,9 +30,9 @@ export default function Footer() {
       </div>
       <div className="footer-bottom">
         <div className='footer-bottom-box'>
-            <a>Privacy Policy</a>
+            <a href=''>Privacy Policy</a>
             <p>|</p>
-            <a>Terms & Conditions</a>
+            <a href=''>Terms & Conditions</a>
 
         </div>
       </div>
