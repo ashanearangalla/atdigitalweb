@@ -10,7 +10,7 @@ export default function FAQs() {
         <div className="faq-clicked">
           <div className="faq-header-box">
             <p>
-            Lorem ipsum dolor sit amet consectetur. Leo at sit eu libero?
+            Lorem  ipsum dolor sit amet consectetur. Leo at sit eu libero?
             </p>
             <i id="dash" className="bi bi-dash"></i>
           </div>
