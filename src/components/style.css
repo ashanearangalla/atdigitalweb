@@ -32,8 +32,8 @@
 }
 
 .nav-bar {
-  width: 1440px;
-  height: 77px;
+  width: Fixed (1, 440px)px;
+  height: Hug (77px)px;
   padding: 26px 80px 26px 80px;
 
   justify-content: space-between;
@@ -116,7 +116,7 @@ a:active {
 
 .hero {
   overflow: hidden;
-  width: 1440px;
+  width: Hug(1440px)px;
   min-height: 700px;
   top: 77px;
   gap: 0px;
@@ -135,7 +135,7 @@ a:active {
 
   height: 700px;
   top: 77px;
-  width: 1440px;
+  width: Hug(1440px)px;
   height: 763px;
   top: -40px;
   gap: 0px;
@@ -153,7 +153,7 @@ a:active {
   display: flex;
   flex-direction: column;
   width: 630px;
-  height: 306px;
+  height: Hug (306px)px;
   top: 414px;
   left: 80px;
   padding: 24px 40px 32px 40px;
@@ -178,7 +178,7 @@ a:active {
 .frame-497 button {
 
   width: 214px;
-  height: 38px;
+  height: Hug (38px)px;
   padding: 12px 20px 12px 20px;
   gap: 8px;
   border-radius: 4px 0px 0px 0px;
@@ -190,7 +190,7 @@ a:active {
 
 .flow-box {
   max-width: 1, 064px;
-  height: 414px;
+  height: Hug (414px)px;
 
   gap: 108px;
   opacity: 0px;
