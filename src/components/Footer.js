@@ -13,16 +13,16 @@ export default function Footer() {
         <div className='footer-box-2'>
             <div className="footer-subbox">
                 <p className='footer-subbox-header'>Our Technologies</p>
-                <a href=''>ReactJS</a>
-                <a href=''>Gatsby</a>
-                <a href=''>NextJS</a>
-                <a href=''>NodeJS</a>
+                <a href='#'>ReactJS</a>
+                <a href='#'>Gatsby</a>
+                <a href='#'>NextJS</a>
+                <a href='#'>NodeJS</a>
             </div>
             <div className="footer-subbox">
                 <p className='footer-subbox-header'>Our Services</p>
-                <a href=''>Social media Marketing</a>
-                <a href=''>Web & Mobile App Development</a>
-                <a href=''>Data & Analytics</a>
+                <a href='#'>Social media Marketing</a>
+                <a href='#'>Web & Mobile App Development</a>
+                <a href='#'>Data & Analytics</a>
 
             </div>
 
@@ -30,9 +30,9 @@ export default function Footer() {
       </div>
       <div className="footer-bottom">
         <div className='footer-bottom-box'>
-            <a href=''>Privacy Policy</a>
+            <a href='#'>Privacy Policy</a>
             <p>|</p>
-            <a href=''>Terms & Conditions</a>
+            <a href='#'>Terms & Conditions</a>
 
         </div>
       </div>

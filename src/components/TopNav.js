@@ -10,16 +10,16 @@ export default function TopNav() {
       </div>
       <div className="box-2">
         <div>
-          <a href="">SERVICES</a>
+          <a href="#">SERVICES</a>
         </div>
         <div>
-          <a href="">ABOUT US</a>
+          <a href="#">ABOUT US</a>
         </div>
         <div>
-          <a href="">CONTACT US</a>
+          <a href="#">CONTACT US</a>
         </div>
         <div>
-          <a href="">CAREERS</a>
+          <a href="#">CAREERS</a>
         </div>
       </div>
 
@@ -28,11 +28,11 @@ export default function TopNav() {
         <i className="bi bi-list"></i>
         
         <div className="overlay">
-          <a href="">HOME</a>
-          <a href="">SERVICES</a>
-          <a href="">ABOUT US</a>
-          <a href="">CONTACT US</a>
-          <a href="">CAREERS</a>
+          <a href="#">HOME</a>
+          <a href="#">SERVICES</a>
+          <a href="#">ABOUT US</a>
+          <a href="#">CONTACT US</a>
+          <a href="#">CAREERS</a>
           <i className="bi bi-x"></i>
         </div>
         
