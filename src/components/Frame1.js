@@ -5,7 +5,7 @@ import image from './images/image2.png';
 export default function Frame1() {
   return (
     <div className='flow-box'>
-      <img className='image-frame' src={image}/>
+      <img alt='image of desktop' className='image-frame' src={image}/>
       <div className="text-box-frame">
         <p className='heading'>
         Web & Mobile App Development

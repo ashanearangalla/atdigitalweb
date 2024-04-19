@@ -6,7 +6,7 @@ export default function TopNav() {
   return (
     <div className="nav-bar">
       <div className="box-1">
-        <img src={logo} className="logo" />
+        <img alt='logo of at digital' src={logo} className="logo" />
       </div>
       <div className="box-2">
         <div>
@@ -28,11 +28,11 @@ export default function TopNav() {
         <i className="bi bi-list"></i>
         
         <div className="overlay">
-          <a>HOME</a>
-          <a>SERVICES</a>
-          <a>ABOUT US</a>
-          <a>CONTACT US</a>
-          <a>CAREERS</a>
+          <a href="">HOME</a>
+          <a href="">SERVICES</a>
+          <a href="">ABOUT US</a>
+          <a href="">CONTACT US</a>
+          <a href="">CAREERS</a>
           <i className="bi bi-x"></i>
         </div>
         

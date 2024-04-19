@@ -7,22 +7,22 @@ export default function Footer() {
     <div className='footer'>
       <div className="company-details">
         <div className='footer-box-1'>
-            <img src={logo} className="logo-footer" />
+            <img alt='logo of at digital' src={logo} className="logo-footer" />
             <p>Your goal is our target. Not anything in between. We use online marketing platforms and tools to achieve single objective - your business results.</p>
         </div>
         <div className='footer-box-2'>
             <div className="footer-subbox">
                 <p className='footer-subbox-header'>Our Technologies</p>
-                <a>ReactJS</a>
-                <a>Gatsby</a>
-                <a>NextJS</a>
-                <a>NodeJS</a>
+                <a href=''>ReactJS</a>
+                <a href=''>Gatsby</a>
+                <a href=''>NextJS</a>
+                <a href=''>NodeJS</a>
             </div>
             <div className="footer-subbox">
                 <p className='footer-subbox-header'>Our Services</p>
-                <a>Social media Marketing</a>
-                <a>Web & Mobile App Development</a>
-                <a>Data & Analytics</a>
+                <a href=''>Social media Marketing</a>
+                <a href=''>Web & Mobile App Development</a>
+                <a href=''>Data & Analytics</a>
 
             </div>
 
