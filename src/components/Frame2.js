@@ -5,7 +5,7 @@ import image from './images/image1.png';
 export default function Frame2() {
   return (
     <div className='flow-box'>
-      <img alt='image of maagnifying glass for mobile' className='image-frame-mobile' src={image}/>
+      <img alt='image of magnifying glass for mobile' className='image-frame-mobile' src={image}/>
         <div className="text-box-frame">
         <p className='heading'>
         Digital Strategy Consulting
@@ -15,7 +15,7 @@ export default function Frame2() {
         </p>
         <button>LEARN MORE</button>
       </div>
-      <img alt='image of maagnifying glass for desktop' id='image-frame-desktop' className='image-frame' src={image}/>
+      <img alt='image of maagnifying glass for desktop size' id='image-frame-desktop' className='image-frame' src={image}/>
       
     </div>
   )

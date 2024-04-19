@@ -13,16 +13,16 @@ export default function Footer() {
         <div className='footer-box-2'>
             <div className="footer-subbox">
                 <p className='footer-subbox-header'>Our Technologies</p>
-                <a href='#'>ReactJS</a>
-                <a href='#'>Gatsby</a>
-                <a href='#'>NextJS</a>
-                <a href='#'>NodeJS</a>
+                <a href='/aboutus'>ReactJS</a>
+                <a href='/aboutus'>Gatsby</a>
+                <a href='/aboutus'>NextJS</a>
+                <a href='/aboutus'>NodeJS</a>
             </div>
             <div className="footer-subbox">
                 <p className='footer-subbox-header'>Our Services</p>
-                <a href='#'>Social media Marketing</a>
-                <a href='#'>Web & Mobile App Development</a>
-                <a href='#'>Data & Analytics</a>
+                <a href='/aboutus'>Social media Marketing</a>
+                <a href='/aboutus'>Web & Mobile App Development</a>
+                <a href='/aboutus'>Data & Analytics</a>
 
             </div>
 
