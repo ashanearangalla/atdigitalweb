@@ -262,7 +262,7 @@ a:active {
   opacity: 0px;
   background-color: var(--secondaryorange);
   border: none;
-  color: #FFFFFF;
+  color: white;
   line-height: 14px;
   letter-spacing: -0.02em;
   text-align: left;
