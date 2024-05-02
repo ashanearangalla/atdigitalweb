@@ -1,19 +1,12 @@
 
-import './App.css';
-import TopNav from './components/TopNav';
-import HeroSec from './components/HeroSec';
-import Flow from './components/Flow';
-import Footer from './components/Footer';
+import Home from './components/Home';
 
 
 function App() {
   return (
-    <>
-    <TopNav/>
-    <HeroSec/>
-    <Flow/>
-    <Footer/>
-    </>
+    
+      <Home/>
+      
     
   );
 }
